@@ -1,7 +1,9 @@
-! Title: AI Assistant Blocklist (uBO – blocage strict)
-! Description: Bloque l'accès aux sites d'assistants conversationnels IA.
+! Title: AI Assistant Blocklist (uBO – strict blocking)
+! Description: Blocks access to conversational AI assistant websites.
+! Homepage: https://github.com/luc4rto/AI-Assistant-Blocklist
+! Feel free to fork and submit a PR if you find more sites
 
-! Assistants généralistes
+! General-purpose assistants
 ||chatgpt.com^
 ||chat.openai.com^
 ||gemini.google.com^
@@ -28,7 +30,7 @@
 ||notebooklm.google.com^
 ||kagi.com/assistant^
 
-! Chatbots de compagnie / roleplay
+! Companion / roleplay chatbots
 ||character.ai^
 ||c.ai^
 ||janitorai.com^
