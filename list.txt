@@ -38,3 +38,12 @@
 ||replika.com^
 ||chai.com^
 ||crushon.ai^
+
+! --- Google buttons ---
+google.com##.crJ78d a:has-text(/^Tous$/)
+google.com##.crJ78d div[role="listitem"]:has-text(/^Tous$/)
+google.com##a:has-text(/^Mode IA$/)
+google.com##button:has-text(/^Mode IA$/)
+google.com##a:has-text(/^Aperçu IA$/)
+google.com##button:has-text(/^Aperçu IA$/)
+google.com##g-tabs-bar a[href*="udm="]
