@@ -1,0 +1,38 @@
+# AI Assistant Blocklist (uBlacklist)
+# Masque les sites d'assistants conversationnels IA des résultats de recherche.
+
+# Assistants généralistes
+*://*.chatgpt.com/*
+*://*.chat.openai.com/*
+*://*.gemini.google.com/*
+*://*.claude.ai/*
+*://*.chat.mistral.ai/*
+*://*.perplexity.ai/*
+*://*.duck.ai/*
+*://*.copilot.microsoft.com/*
+*://*.grok.com/*
+*://*.chat.deepseek.com/*
+*://*.meta.ai/*
+*://*.poe.com/*
+*://*.you.com/*
+*://*.kimi.com/*
+*://*.kimi.moonshot.cn/*
+*://*.chat.qwen.ai/*
+*://*.chat.z.ai/*
+*://*.yiyan.baidu.com/*
+*://*.hugging.chat/*
+*://huggingface.co/chat*
+*://*.pi.ai/*
+*://*.heypi.com/*
+*://*.aistudio.google.com/*
+*://*.notebooklm.google.com/*
+*://kagi.com/assistant*
+
+# Chatbots de compagnie / roleplay
+*://*.character.ai/*
+*://*.c.ai/*
+*://*.janitorai.com/*
+*://*.spicychat.ai/*
+*://*.replika.com/*
+*://*.chai.com/*
+*://*.crushon.ai/*
